@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+<!--    Art Title(s)-->
+    <string name="toy_car">Bad Muddar II</string>
+    <string name="toy_dog">Cuddly Beagle</string>
+    <string name="statue_defiant">Defiant Statue</string>
+<!--    Art Author(s)-->
+    <string name="author">Ryan Barillos</string>
+<!--    Navigation-->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>

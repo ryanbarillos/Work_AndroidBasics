@@ -1,4 +1,4 @@
-package com.example.thirtydays
+package com.example.thirtydays.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

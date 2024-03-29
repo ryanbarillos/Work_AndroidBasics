@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">30 Days</string>
+
+    <!--Day 01-->
+    <string name="day_01_head">Buy a Plant</string>
+    <string name="day_01_body">To have fresh air inside the house, buy an indoor house plant</string>
+
+    <!--Day 02-->
+    <string name="day_02_head">Make a Friend</string>
+    <string name="day_02_body">It\'s not good to be alone, that\'s why people are made for one another. So, go out and make a new friend.</string>
+
+    <!--Day 03-->
+    <string name="day_03_head">Learn a New Dish</string>
+    <string name="day_03_body">Time to practice that favorite dish you once discovered at that restaurant and loved ever since.</string>
+
+    <!--Day 04-->
+    <string name="day_04_head">Make a LEGO Build</string>
+    <string name="day_04_body">It\'s been a while since you used LEGO, now it\'s time to build something with it once again.</string>
+    <!--Day 05-->
+    <string name="day_05_head">Practice Coding</string>
+    <string name="day_05_body">It\'s been a dream of yours to practice computer programming. Here, write something to be proud of and show to your tech talent nights.</string>
+    <!--Day 06-->
+    <string name="day_06_head">Play Sports</string>
+    <string name="day_06_body">Stop sitting for too long, and start moving your entire body with physical activities.</string>
+    <!--Day 07-->
+    <string name="day_07_head">Watch a Sports Show</string>
+    <string name="day_07_body">Buy those tickets and see your sports heroes live on the spot!</string>
+    <!--Day 08-->
+    <string name="day_08_head">Learn an Instrument</string>
+    <string name="day_08_body">Get the instrument you admire most, and begin practice on how to play it.</string>
+
+    <!--Day 09-->
+    <string name="day_09_head">Build a Sand Castle</string>
+    <string name="day_09_body">Really into creativity, huh? Build this out of sand.</string>
+
+    <!--Day 10-->
+    <string name="day_10_head">Learn Photography</string>
+    <string name="day_10_body">It\'s been a dream to you, so make it your goal to get a camera.</string>
+
+    <!--Day 11-->
+    <string name="day_11_head">Read a New Book</string>
+    <string name="day_11_body">Pick a book from the library that you haven\'t read, and finish it in one day</string>
+
+    <!--Day 12-->
+    <string name="day_12_head">Get a Haircut</string>
+    <string name="day_12_body">Time to shorten that long hair, Pal!</string>
+    <!--Day 13-->
+    <string name="day_13_head">Picture a Wild Animal</string>
+    <string name="day_13_body">Consider it as training for your photography skills.</string>
+    <!--Day 14-->
+    <string name="day_14_head">Own a Dog</string>
+    <string name="day_14_body">Time to fill your house with livelihood by having a dog as your best friend.</string>
+    <!--Day 15-->
+    <string name="day_15_head">Mountain Biking</string>
+    <string name="day_15_body">Travel to a new route with your mountain bike, and enjoy the view everywhere you look.</string>
+    <!--Day 16-->
+    <string name="day_16_head">Buy New Clothes</string>
+    <string name="day_16_body">Time to replace those old, worn clothes that are tearing apart.</string>
+    <!--Day 17-->
+    <string name="day_17_head">Visit Your Family</string>
+    <string name="day_17_body">Good to have a family reunion this year!</string>
+    <!--Day 18-->
+    <string name="day_18_head">Move Out</string>
+    <string name="day_18_body">Time to move to your new house, and away from city life.</string>
+    <!--Day 19-->
+    <string name="day_19_head">Buy a New Car</string>
+    <string name="day_19_body">Your old car has gone into much, much breakdowns and maintenance. Now is a good time to get a new one with all the discounts from dealerships.</string>
+    <!--Day 20-->
+    <string name="day_20_head">Clean Your New House</string>
+    <string name="day_20_body">That new house is definitely dusty, and cleaning up will help with allergies.</string>
+    <!--Day 21-->
+    <string name="day_21_head">Apply for a New Career</string>
+    <string name="day_21_body">This year brings out new opportunities to finding a new, excelling career.</string>
+    <!--Day 22-->
+    <string name="day_22_head">Watch the Orchestra</string>
+    <string name="day_22_body">Give classical music a try, and you\'ll love it.</string>
+    <!--Day 23-->
+    <string name="day_23_head">Celebrate Your Birthday!</string>
+    <string name="day_23_body">The title says it all, and make sure to invite friends \&amp; family!</string>
+    <!--Day 24-->
+    <string name="day_24_head">Make a Road Trip</string>
+    <string name="day_24_body">Good time to visit a new place for vacation.</string>
+    <!--Day 25-->
+    <string name="day_25_head">Buy a plant</string>
+    <string name="day_25_body">To have fresh air inside the house, buy an indoor house plant.</string>
+    <!--Day 26-->
+    <string name="day_26_head">Volunteer for a Cause</string>
+    <string name="day_26_body">You\'ve been wanting to give something back to the world, didn\'t you?</string>
+    <!--Day 27-->
+    <string name="day_27_head">Go Shopping</string>
+    <string name="day_27_body">Holiday Sale go bananas on that day! Go and get everything you need for dirt cheap!</string>
+    <!--Day 28-->
+    <string name="day_28_head">Chisel Wood</string>
+    <string name="day_28_body">Making something from wood is never more exciting than on this day.</string>
+    <!--Day 29-->
+    <string name="day_29_head">Attend a Live Performance</string>
+    <string name="day_29_body">Can\'t wait to see your music idol live at your place!</string>
+    <!--Day 30-->
+    <string name="day_30_head">Medical Check-up</string>
+    <string name="day_30_body">Remember your monthly check-up and keep track of your healthiness.</string>
+
+</resources>

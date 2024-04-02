@@ -38,8 +38,16 @@ class MainActivity : ComponentActivity() {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
-    ThirtyDaysTheme {
+fun GreetingPreviewDark() {
+    ThirtyDaysTheme(useDarkTheme = false) {
+        ThirtyDaysApp(tasksList = tasksList)
+    }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun GreetingPreviewLight() {
+    ThirtyDaysTheme(useDarkTheme = true) {
         ThirtyDaysApp(tasksList = tasksList)
     }
 }
